@@ -1,0 +1,10 @@
+.Python
+.cache
+.eggs
+*.egg-info
+bin
+dist
+include
+lib
+pip-selfcheck.json
+test-venv
